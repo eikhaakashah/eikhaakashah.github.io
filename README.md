@@ -3,7 +3,7 @@ My Network Security Portfolio
 # Personal Career Development Portfolio
 
 ## Student Information
-**Name:** Siti Zulaikha Binti Akashah Nurus Sabah
+**Name:** Siti Zulaikha Binti Akashah Nurus Sabah  
 **Course:** Bachelor of Computer Science(Internet Computing) with Honour  
 **Subject:** CSA30203 Special Topics in Computer Network Security  
 
