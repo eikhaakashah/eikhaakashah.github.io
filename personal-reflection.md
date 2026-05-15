@@ -2,7 +2,7 @@
 
 | Reflection Area | Explanation |
 |---|---|
-| Dream Company | Nexagate |
+| Dream Company | Nexagate Sdn. Bhd. |
 | Career Interest | Software Developer (Security-focused) |
 | Reason for Choosing | I am interested in cybersecurity, secure software development, and protecting systems from cyber threats. Nexagate’s involvement in digital security solutions matches my career interests and future goals. |
 | Why I Want to Work There | I want to gain real industry experience, improve my technical skills, and learn more about secure systems and cybersecurity technologies in a professional working environment. |
