@@ -8,5 +8,5 @@
 | Why I Want to Work There | I want to gain real industry experience, improve my technical skills, and learn more about secure systems and cybersecurity technologies in a professional working environment. |
 | Value I Can Bring | I can contribute through my willingness to learn, teamwork skills, responsibility, adaptability, and strong interest in technology and cybersecurity. |
 | Why Should They Hire Me | I am motivated to continuously improve my skills and contribute positively to the company. I am hardworking, responsible, and eager to learn new technologies related to secure software development. |
-| Technical Skills | Python, Java, PHP, JavaScript, Web Development, Database Management, Git & GitHub, Basic Cybersecurity Knowledge, Secure Coding Practices |
-| Soft Skills | Problem-solving, Communication Skills, Team Collaboration, Time Management, Critical Thinking, Adaptability |
+| Technical Skills | Python, Java, PHP, JavaScript, Web Development, Database Management, Git & GitHub, Basic Cybersecurity Knowledge, Secure Coding Practices, Wireshark, Mailvelope. |
+| Soft Skills | Problem-solving, Communication Skills, Team Collaboration, Time Management, Critical Thinking, Adaptability. |
