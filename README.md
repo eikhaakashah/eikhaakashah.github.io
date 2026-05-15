@@ -1,6 +1,6 @@
 # eikhaakashah.github.io
-My Network Security Portfolio
-# Personal Career Development Portfolio
+# My Network Security Portfolio
+## Personal Career Development Portfolio
 
 ## Student Information
 **Name:** Siti Zulaikha Binti Akashah Nurus Sabah  
