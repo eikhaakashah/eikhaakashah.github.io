@@ -18,7 +18,7 @@ This shows the use of Mailvelope for email encryption through Gmail.
 The feature allows users to import a PGP public key to secure email communication and protect sensitive information.
 It helps encrypt and secure email messages so that only the intended receiver can read the content safely.
 
-<img src="greedy ai.png" width="600">
+<img src="greedy ai 1.png" width="600">
 
 This image shows the use of Python programming to develop and test coding solutions. 
 Python is used to create programs, solve problems, automate tasks, and improve programming skills
