@@ -60,8 +60,10 @@ The responsibilities of a Security-Focused Software Developer include:
 - Knowledge of common cyberattacks:
   - SQL Injection
   - Cross-Site Scripting (XSS)
-  - Malware
+  - Unauthorized access
   - Phishing
+  - Data Breaches
+  - Ransomware
 - Vulnerability testing and debugging
 - Understanding of OWASP Top 10 security risks
 
